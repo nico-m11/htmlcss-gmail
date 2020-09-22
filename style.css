@@ -1,0 +1,82 @@
+body {
+  background-image: url("img/sfondo.jpg");
+}
+
+/*intro-style*/
+
+img {
+  height: 100px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+#text-logo {
+  color: white;
+  font-size: 25px;
+}
+
+
+
+.logo {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/*fine intro-style*/
+
+hr {
+  margin-top: 0px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/*search-style*/
+
+.search {
+  margin-left: 100px;
+}
+
+p {
+  color: white;
+  font-size: 25px;
+}
+
+#circle {
+  display: inline-block;
+  height: 30px;
+  width: 35px;
+  border-radius: 100%;
+  background-color: orange;
+  text-align: center;
+}
+
+/*Box Mail-Style*/
+
+.box-mail-read {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: gray;
+}
+
+.box-mail-unread {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: lightgray;
+}
+
+/* hr-style-end */
+
+#end {
+  margin-top: 10px;
+}
+
+/* footer */
+
+footer {
+  color: white;
+  text-align: center;
+}
+
+.close {
+  font-size: 30px;
+}
